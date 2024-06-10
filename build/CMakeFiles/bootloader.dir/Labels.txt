@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/CMakeFiles/bootloader
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/CMakeFiles/bootloader.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/CMakeFiles/bootloader-complete.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/NovaY/Projetos/esp_projects/alarms/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
